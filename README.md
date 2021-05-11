@@ -1,0 +1,4 @@
+```
+npm ci
+npm test
+```
